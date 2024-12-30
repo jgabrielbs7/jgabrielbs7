@@ -7,7 +7,7 @@
 
 ![João Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=jgabrielbs7&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgabrielbs7&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgabrielbs7&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
